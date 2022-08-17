@@ -42,4 +42,4 @@ $ git push -f origin master
 
 ## 排版规范
 
-本开源书籍排版布局和翻译风格上参考**阮一峰**老师的 [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
+本开源书籍排版布局和翻译风格上参考**阮一峰**老师的 [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)dds
